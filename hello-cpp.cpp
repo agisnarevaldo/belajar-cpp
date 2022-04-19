@@ -17,8 +17,8 @@ int main(){
     luas = panjang * lebar;
 
     //menampilkan ke konsol atau terminal atau output
-    cout << nama; cout << endl;
-    cout << umur; cout <<endl;
+    cout << nama << endl;
+    cout << umur <<endl;
 
     cout << bangunDatar;
     cout << "\n";
